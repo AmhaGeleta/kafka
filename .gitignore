@@ -17,7 +17,7 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
-### IntelliJ IDEA ###  Just another comment
+### IntelliJ IDEA ###  Very New Comment
 .idea
 *.iws
 *.iml
